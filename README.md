@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my knowledge**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m learning **C#**
 
 - 📫 How to reach me **krisizarkova@icloud.com**
 

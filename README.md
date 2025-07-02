@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kristiyana Zarkova</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisiza&label=Profile%20views&color=0e75b6&style=flat" alt="krisiza" /> </p>
 
-- 🔭 I’m currently working on **my knowledge**
+💻 I work with C#, ASP.NET Core, and Entity Framework Core to build robust backend solutions
 
-- 🌱 I’m learning **C#**
+🛠 Skilled in SQL for data management and reporting
 
-- 📫 How to reach me **krisizarkova@icloud.com**
+🌐 I also use JavaScript, HTML, and CSS to create responsive frontends
+
+🔄 Focused on clean code, data integrity, and full-stack development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
